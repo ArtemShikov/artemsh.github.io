@@ -11,7 +11,7 @@
       <h2>Контакты:</h2>
       Страничка <a href=https://vk.com/id143189339/>vkontakte</a>
       <br/>
-      <a href=https://github.com/elisalech>GitHub</a>
+      <a href=https://github.com/ArtemShikov>GitHub</a>
       <br/>
       Телефон: <b>+79994515695</b>
       <br/>
