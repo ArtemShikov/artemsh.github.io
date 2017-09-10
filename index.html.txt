@@ -1,20 +1,20 @@
-<!doctype html>
+  <!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
-      <title>MINE WEB PAGE</title>
+      <title>Моя личная страничка</title>
     </head>
     <body> 
-      <left><h1>ME GREAT</h1></left>
-      <left><img alt="��� �" width="15%" src="me.jpg"></left>
+      <left><h1>Елисеев Вячеслав</h1></left>
+      <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
-      <h2>��������:</h2>
-      ��������� <a href=https://https://vk.com/artemshikov/>vkontakte</a>
+      <h2>Контакты:</h2>
+      Страничка <a href=https://vk.com/id143189339/>vkontakte</a>
       <br/>
-      <a href=https://github.com/ArtemShikov>GitHub</a>
+      <a href=https://github.com/elisalech>GitHub</a>
       <br/>
-      �������: <b>+7..........</b>
+      Телефон: <b>+79994515695</b>
       <br/>
-      E-mail: <i>aashikov@edu.hse.ru</i>
+      E-mail: <i>vaeliseev@edu.hse.ru</i>
     </body>
   </html>
